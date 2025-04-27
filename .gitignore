@@ -1,1 +1,10 @@
 # gitignore 
+
+# Ignorowanie folderow
+log/
+build/
+
+# Ignorowanie plikow o rozszerzeniach
+*.pdf
+*.tmp
+*.log
